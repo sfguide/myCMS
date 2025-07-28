@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Live Music at Marina",
+    "description": "Enjoy local bands at the Sarasota Marina every Friday.",
+    "image": "https://i.imgur.com/yourimage1.jpg”,
+    “startDate”: “2025-08-02”,
+    “endDate”: 20225-08-05”
+  },
+  {
+    "id": 2,
+    "title": "Art Walk Downtown",
+    "description": "Explore art galleries and street performances downtown.",
+    "image": "https://i.imgur.com/yourimage2.jpg”,
+    “startDate”: “2025-08-19”,
+    “endDate”: 20225-08-24”
+
+  }
+]
